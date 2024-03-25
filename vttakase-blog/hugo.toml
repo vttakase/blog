@@ -1,0 +1,19 @@
+baseURL = 'https://vttakase.github.io/'
+languageCode = 'en-us'
+title = 'Victor Takase - Blog'
+theme="hugo-blog-awesome"
+
+[params]
+  goToTop = true
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/vttakase"
+
+#[[params.socialIcons]]
+#name = "twitter"
+#url = "https://twitter.com"
+
+#[[params.socialIcons]]
+#name = "Rss"
+#url = "index.xml"
