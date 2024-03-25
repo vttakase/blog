@@ -1,0 +1,4 @@
+[submodule "vttakase-blog/public"]
+	path = vttakase-blog/public
+	url = git@github.com:vttakase/vttakase.github.io.git
+	branch = main
